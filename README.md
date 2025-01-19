@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @maymicabral or Mayra 
-- 👀 I’m interested in Software Engennier 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on innovative projects that help people in the world.
-- 📫 How to reach me e-mail: maycabral89@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love nature, animals, running and trying new things.
+👋 Hi, I’m @maymicabral, or Mayra
+👀 I’m interested in Software Engineering
+🌱 I’m currently learning Python
+💞️ I’m looking to collaborate on innovative projects that make a positive impact in the world
+📫 How to reach me: maycabral89@gmail.com
+😄 Pronouns: she/her
+⚡ Fun fact: I love nature, animals, running, and exploring new experiences
 
 <!---
 maymicabral/maymicabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
