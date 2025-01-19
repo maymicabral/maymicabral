@@ -8,12 +8,6 @@
 😄 Pronouns: she/her  
 ⚡ Fun fact: I love nature, animals, running, and exploring new experiences  
 
----
-
-## Referências
-- [Documentação Oficial do Django](https://docs.djangoproject.com/)
-- [Curso na Alura](https://www.alura.com.br/)
-
 
 
 <!---
